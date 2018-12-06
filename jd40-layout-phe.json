@@ -1,0 +1,96 @@
+[
+  [
+    {
+      "a": 0
+    },
+    "Esc\n\n\n\n` ~",
+    {
+      "a": 4
+    },
+    "Q",
+    {
+      "a": 0
+    },
+    "W\n\n\n\nUp",
+    {
+      "a": 4
+    },
+    "E",
+    {
+      "a": 0
+    },
+    "R\n\n\n\n7 &\nF7",
+    "T\n\n\n\n8 *\nF8",
+    "Y\n\n\n\n9 )\nF9",
+    "U\n\n\n\n0 )\nF10",
+    "I\n\n\n\n- _\nF11",
+    "O\n\n\n\n= +\nF12",
+    "P\n\n\n\n[ {\n] ]",
+    "Back<br>Space\n\n\n\n\\ |"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Tab\n\n\n\nCaps",
+    "A\n\n\n\nLeft",
+    "S\n\n\n\nDown",
+    "D\n\n\n\nRight",
+    "F\n\n\n\n4 $\nF4",
+    "G\n\n\n\n5 %\nF5",
+    "H\n\n\n\n6 ^\nF6",
+    "J\n\n\n\nIns",
+    "K\n\n\n\nHome",
+    "L\n\n\n\nPgUp",
+    {
+      "w": 1.75
+    },
+    "Enter\n\n\n\n; :"
+  ],
+  [
+    {
+      "a": 4,
+      "w": 1.75
+    },
+    "Shift",
+    "Z",
+    "X",
+    "C",
+    {
+      "a": 0
+    },
+    "V\n\n\n\n1 !\nF1",
+    "B\n\n\n\n2 @\nF2",
+    "N\n\n\n\n3 #\nF3",
+    "M\n\n\n\nDel",
+    "<\n.\n\n\nEnd",
+    {
+      "w": 1.25
+    },
+    "Shift\n\n\n\nPgDn",
+    ">\n.\n\n\n/ ?"
+  ],
+  [
+    {
+      "a": 4,
+      "w": 1.25
+    },
+    "Ctrl",
+    "Fn 1",
+    "Alt",
+    {
+      "a": 7,
+      "w": 6.25
+    },
+    "",
+    {
+      "a": 4,
+      "w": 1.25
+    },
+    "Fn 2",
+    {
+      "w": 1.25
+    },
+    "Ctrl"
+  ]
+]
